@@ -1,3 +1,5 @@
+# TPOT:
+
 - TPOT is a Python Automated Machine Learning tool that optimizes machine learning pipelines using genetic programming.
 - POT expects a cleaned dataset, it does feature processing, model selection, and hyperparameter optimization to return the best performing model.
 - It stands for Tree-based Pipeline Optimization Tool and was developed by Randal S. Olson and others at the University of Pennsylvania.
@@ -18,10 +20,11 @@
 
 TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
 
-https://github.com/EpistasisLab/tpot/blob/master/images/tpot-ml-pipeline.png
-[Source](https://github.com/EpistasisLab/tpot)
+<img src = https://github.com/EpistasisLab/tpot/blob/master/images/tpot-ml-pipeline.png>
+
+[Source : https://github.com/EpistasisLab/tpot](https://github.com/EpistasisLab/tpot)
 
 Once TPOT is finished searching (or you get tired of waiting), it provides you with the Python code for the best pipeline it found so you can tinker with the pipeline from there.
 
-https://github.com/EpistasisLab/tpot/blob/master/images/tpot-pipeline-example.png
-[Source](https://github.com/EpistasisLab/tpot)
+<img src = https://github.com/EpistasisLab/tpot/blob/master/images/tpot-pipeline-example.png>
+[Source : https://github.com/EpistasisLab/tpot](https://github.com/EpistasisLab/tpot)
