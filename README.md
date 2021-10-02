@@ -6,7 +6,7 @@ When applied to neural networks, this involves both discovering the model archit
 
 **Hyperparameter optimization (HO) is the technique of finding the optimal values of different model hyperparameters such as learning rate, etc**
 
-In simple words is a way of automating the tasks: 
+In simple words, AutoML is a way of automating the tasks: 
 
 - Preprocess and clean the data.
 - Select and construct appropriate features.
