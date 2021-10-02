@@ -1,18 +1,11 @@
-# AutoML
+## AutoKeras: 
 
-AutoML refers to techniques for automatically discovering the best-performing model for a given dataset.
-
-When applied to neural networks, this involves both discovering the model architecture and the hyperparameters used to train the model, generally referred to as neural architecture search.
-
-**Hyperparameter optimization (HO) is the technique of finding the optimal values of different model hyperparameters such as learning rate, etc**
-
-Automated Machine Learning (AutoML) helps in automating some critical components of the machine learning pipeline. This machine learning pipeline consists of data understanding, data engineering, feature engineering, model training, hyperparameter tuning, model monitoring, etc.
-
-In simple words, AutoML is a way of automating the tasks: 
-
-- Preprocess and clean the data.
-- Select and construct appropriate features.
-- Select an appropriate model family.
-- Optimize model hyperparameters.
-- Postprocess machine learning models.
-- Critically analyze the results obtained.
+- An AutoML system based on Keras. 
+- It is developed by DATA Lab at Texas A&M University. 
+- The goal of AutoKeras is to make machine learning accessible to everyone.
+- It is built to find the best performing deep learning model for classification and regression.
+- AutoKeras automatically searches for architecture and hyperparameters for deep learning models and trains them using the training data, and returns the best performing deep learning model are the final result.
+- Auto-Keras follows the classic Scikit-Learn API design and therefore is easy to use.
+- By using AutoKeras, you can build a model with complex elements like embeddings and reduction techniques 
+- With AutoKeras, a neural architecture search algorithm finds the best architectures, like the number of neurons in a layer, the number of layers, which layers to incorporate, layer-specific parameters like filter size, or percent of dropped neurons in Dropout, etc.
+- When we create a model using AutoKeras, much of preprocessing, like vectorizing or cleaning text data, is already done for you.
