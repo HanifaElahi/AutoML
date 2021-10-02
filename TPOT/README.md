@@ -14,3 +14,14 @@
 - On the whole, TPOT will do “population size + generations * offspring size” pipelines to evaluate.
 - Without modifying these parameters, TPOT evaluates 10,000 pipeline configurations with cross validation before finishing. 
 - Once TPOT has finished running it allows you to export a .py file with the best pipeline that it could find containing all the information you need to run it.
+
+
+TPOT will automate the most tedious part of machine learning by intelligently exploring thousands of possible pipelines to find the best one for your data.
+
+https://github.com/EpistasisLab/tpot/blob/master/images/tpot-ml-pipeline.png
+[Source](https://github.com/EpistasisLab/tpot)
+
+Once TPOT is finished searching (or you get tired of waiting), it provides you with the Python code for the best pipeline it found so you can tinker with the pipeline from there.
+
+https://github.com/EpistasisLab/tpot/blob/master/images/tpot-pipeline-example.png
+[Source](https://github.com/EpistasisLab/tpot)
