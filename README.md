@@ -16,3 +16,8 @@ In simple words is a way of automating the tasks:
 - Optimize model hyperparameters.
 - Postprocess machine learning models.
 - Critically analyze the results obtained.
+
+# AutoML Libraries:
+
+1. Auto-Keras
+2. TPOT
