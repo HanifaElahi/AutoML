@@ -19,5 +19,5 @@ In simple words is a way of automating the tasks:
 
 # AutoML Libraries:
 
-1. Auto-Keras
+1. [Auto-Keras](https://github.com/HanifaElahi/AutoML/tree/main/Auto-Keras)
 2. TPOT
