@@ -6,6 +6,8 @@ When applied to neural networks, this involves both discovering the model archit
 
 **Hyperparameter optimization (HO) is the technique of finding the optimal values of different model hyperparameters such as learning rate, etc**
 
+Automated Machine Learning (AutoML) helps in automating some critical components of the machine learning pipeline. This machine learning pipeline consists of data understanding, data engineering, feature engineering, model training, hyperparameter tuning, model monitoring, etc.
+
 In simple words, AutoML is a way of automating the tasks: 
 
 - Preprocess and clean the data.
