@@ -27,4 +27,11 @@ TPOT will automate the most tedious part of machine learning by intelligently ex
 Once TPOT is finished searching (or you get tired of waiting), it provides you with the Python code for the best pipeline it found so you can tinker with the pipeline from there.
 
 <img src = https://github.com/EpistasisLab/tpot/blob/master/images/tpot-pipeline-example.png>
+
 [Source : https://github.com/EpistasisLab/tpot](https://github.com/EpistasisLab/tpot)
+
+
+
+
+
+
