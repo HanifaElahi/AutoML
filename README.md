@@ -1,3 +1,5 @@
+# AutoML
+
 AutoML refers to techniques for automatically discovering the best-performing model for a given dataset.
 
 When applied to neural networks, this involves both discovering the model architecture and the hyperparameters used to train the model, generally referred to as neural architecture search.
