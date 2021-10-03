@@ -22,3 +22,5 @@ In simple words is a way of automating the tasks:
 1. [Auto-Keras](https://github.com/HanifaElahi/AutoML/tree/main/Auto-Keras)
 2. [TPOT](https://github.com/HanifaElahi/AutoML/tree/main/TPOT)
 3. [Auto-ViML](https://github.com/HanifaElahi/AutoML/tree/main/Auto-ViML)
+4. [AutoGluon](https://github.com/HanifaElahi/AutoML/tree/main/AutoGluon)
+5. [H2O AutoML](https://github.com/HanifaElahi/AutoML/tree/main/H2O%20AutoML)
