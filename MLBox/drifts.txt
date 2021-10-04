@@ -1,0 +1,11 @@
+
+*******************************************  Drifts coefficients *******************************************
+
+Formatted Date = 1.0
+Pressure (millibars) = 0.4483449163668414
+Visibility (km) = 0.42917668751165805
+Precip Type = 0.26487517977559283
+Wind Bearing (degrees) = 0.2394013337344707
+Wind Speed (km/h) = 0.23570560687861253
+Humidity = 0.2245274027332691
+Summary = 0.21751326695309814
