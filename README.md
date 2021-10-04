@@ -24,3 +24,6 @@ In simple words is a way of automating the tasks:
 3. [Auto-ViML](https://github.com/HanifaElahi/AutoML/tree/main/Auto-ViML)
 4. [AutoGluon](https://github.com/HanifaElahi/AutoML/tree/main/AutoGluon)
 5. [H2O AutoML](https://github.com/HanifaElahi/AutoML/tree/main/H2O%20AutoML)
+6. [MLBox](https://github.com/HanifaElahi/AutoML/tree/main/MLBox)
+7. [PyCaret](https://github.com/HanifaElahi/AutoML/tree/main/PyCaret)
+8. [FLAML]
