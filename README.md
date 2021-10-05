@@ -1,4 +1,4 @@
-e# AutoML
+# AutoML
 
 AutoML refers to techniques for automatically discovering the best-performing model for a given dataset.
 
