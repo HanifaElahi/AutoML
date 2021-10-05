@@ -1,4 +1,4 @@
-# AutoML
+e# AutoML
 
 AutoML refers to techniques for automatically discovering the best-performing model for a given dataset.
 
@@ -26,4 +26,5 @@ In simple words is a way of automating the tasks:
 5. [H2O AutoML](https://github.com/HanifaElahi/AutoML/tree/main/H2O%20AutoML)
 6. [MLBox](https://github.com/HanifaElahi/AutoML/tree/main/MLBox)
 7. [PyCaret](https://github.com/HanifaElahi/AutoML/tree/main/PyCaret)
-8. [FLAML]
+8. [FLAML](https://github.com/HanifaElahi/AutoML/tree/main/FLAML)
+9. [Auto-Sklearn](https://github.com/HanifaElahi/AutoML/tree/main/Auto-Sklearn)
